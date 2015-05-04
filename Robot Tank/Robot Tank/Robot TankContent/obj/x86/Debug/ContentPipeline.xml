@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2012-11-27T04:53:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Map.png</Source>
+      <Name>Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\Map.xnb</Output>
+      <Time>2012-11-25T08:32:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2012-11-25T05:17:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fog1.png</Source>
+      <Name>fog1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\fog1.xnb</Output>
+      <Time>2012-11-25T06:31:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fog2.png</Source>
+      <Name>fog2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\fog2.xnb</Output>
+      <Time>2012-11-25T06:35:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-11-26T00:39:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2012-11-26T01:32:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.png</Source>
+      <Name>tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2012-11-26T10:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>eBullet.png</Source>
+      <Name>eBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\eBullet.xnb</Output>
+      <Time>2012-11-26T07:54:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healthBar.png</Source>
+      <Name>healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\healthBar.xnb</Output>
+      <Time>2012-11-27T03:02:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>blackDotLarge.png</Source>
+      <Name>blackDotLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\blackDotLarge.xnb</Output>
+      <Time>2012-11-27T06:04:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>redDot.png</Source>
+      <Name>redDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\redDot.xnb</Output>
+      <Time>2012-11-27T06:05:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>redDotSmall.png</Source>
+      <Name>redDotSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\redDotSmall.xnb</Output>
+      <Time>2012-11-27T06:05:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowDotSmall.png</Source>
+      <Name>yellowDotSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\yellowDotSmall.xnb</Output>
+      <Time>2012-11-27T06:05:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menuImage.jpg</Source>
+      <Name>menuImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\menuImage.xnb</Output>
+      <Time>2014-02-06T18:26:29.1195074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.jpg</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2014-02-06T18:28:27.2252627+00:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2014-02-06T18:31:27.800591+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playButton.jpg</Source>
+      <Name>playButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\playButton.xnb</Output>
+      <Time>2014-02-06T18:38:22.4283063+00:00</Time>
+    </Item>
+    <Item>
+      <Source>map1.jpg</Source>
+      <Name>map1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\map1.xnb</Output>
+      <Time>2014-02-06T19:16:28.7640773+00:00</Time>
+    </Item>
+    <Item>
+      <Source>base1.png</Source>
+      <Name>base1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\base1.xnb</Output>
+      <Time>2014-02-06T19:23:09.0499723+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gun1.png</Source>
+      <Name>gun1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\gun1.xnb</Output>
+      <Time>2014-02-06T19:23:12.0981466+00:00</Time>
+    </Item>
+    <Item>
+      <Source>texfont2.bmp</Source>
+      <Name>texfont2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\texfont2.xnb</Output>
+      <Time>2014-02-06T19:33:01.6958697+00:00</Time>
+    </Item>
+    <Item>
+      <Source>texfont1.bmp</Source>
+      <Name>texfont1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\texfont1.xnb</Output>
+      <Time>2014-02-06T19:57:31.3149271+00:00</Time>
+    </Item>
+    <Item>
+      <Source>boardImg.png</Source>
+      <Name>boardImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\boardImg.xnb</Output>
+      <Time>2014-02-06T20:24:00.3408142+00:00</Time>
+    </Item>
+    <Item>
+      <Source>restartButton.png</Source>
+      <Name>restartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\restartButton.xnb</Output>
+      <Time>2014-02-06T23:34:01.5639268+00:00</Time>
+    </Item>
+    <Item>
+      <Source>helpImg.png</Source>
+      <Name>helpImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\helpImg.xnb</Output>
+      <Time>2014-02-07T00:50:11.4033067+00:00</Time>
+    </Item>
+    <Item>
+      <Source>helpButton.png</Source>
+      <Name>helpButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\helpButton.xnb</Output>
+      <Time>2014-02-07T01:03:36.1003327+00:00</Time>
+    </Item>
+    <Item>
+      <Source>backButton.png</Source>
+      <Name>backButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\backButton.xnb</Output>
+      <Time>2014-02-07T01:05:49.1229412+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-11-27T03:59:50+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Robot Tank\Robot Tank\Robot TankContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Robot Tank\Robot Tank\Robot Tank\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Robot Tank\Robot Tank\Robot TankContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Robot Tank\Robot Tank\Robot Tank\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T05:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-24T01:12:26.0971244+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
